@@ -21,5 +21,25 @@
 // sonuc=(y!=z);
 // sonuc=(z>x);
 // console.log(sonuc);
-
+//3)
+//a)
+ let vize1=60,vize2=50,finalnot=30;
+ let ortalama=(vize1+vize2+finalnot)/3;
+// if(ortalama>50){
+//     console.log("geçti");
+// }else{
+//     console.log("kaldı");
+// }
+//b)
+// if(ortalama>=50 && finalnot>50){
+//     console.log("geçti");
+// }else{
+//     console.log("kaldı");
+// }
+//c)
+// if(finalnot==70 || ortalama<50){
+//     console.log("gecti");
+// }else{
+//     console.log("kaldı");
+// }
 
